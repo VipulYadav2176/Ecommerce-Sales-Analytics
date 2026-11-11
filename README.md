@@ -22,7 +22,7 @@ The uploaded PDF file contains a visual preview of the Power BI dashboard.
 
 ## Project Files
 - `Ecommerce_Sales_Analytics.pbix` – Power BI dashboard file.
-- `Ecommerce_Sales_Analytics.pdf` – Dashboard PDF preview.
+- `E-Commerce Sales Analytics Dashboard.pdf` – Dashboard PDF preview.
 
 ## Key Performance Indicators
 - Total Sales
